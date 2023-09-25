@@ -1,0 +1,84 @@
+body{
+    align-content: center;
+    padding-left: 400px;
+    padding-top: 100px;
+}
+
+.shadowbox {
+    width: 500px;
+    text-align: center;
+    border: 1px solid #333;
+    box-shadow: 8px 8px 5px #444;
+    padding: 8px 12px;
+    background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
+  }
+
+  label {
+    display: block;
+    font:
+      1rem 'Fira Sans',
+      sans-serif;
+      font-size: larger;
+  }
+  
+  input,
+  label {
+    margin: 0.4rem 0;
+  }
+
+  .degs{
+    font-weight: arial;
+  }
+  .typ{
+    font-weight: arial;
+  }
+
+  .unit{
+   height: 40px;
+    width:200px;
+    font-size: 20px;
+    box-shadow: 2px 2px 10px black;
+   
+  }
+  .deg{
+    height: 35px;
+     width:200px;
+     font-size: 20px;
+     box-shadow: 2px 2px 10px black;
+   }
+
+  .styled {
+    border: 0;
+    width: 300px;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: rgb(34, 192, 255);
+    background-image: linear-gradient(to top left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) 30%, rgba(0, 0, 0, 0));
+    box-shadow:
+      inset 2px 2px 3px rgba(255, 255, 255, 0.6),
+      inset -2px -2px 3px rgba(0, 0, 0, 0.6);
+  }
+  
+  .styled:hover {
+    background-color: rgb(14, 228, 217);
+  }
+  
+  .styled:active {
+    box-shadow:
+      inset -2px -2px 3px rgba(255, 255, 255, 0.6),
+      inset 2px 2px 3px rgba(0, 0, 0, 0.6);
+  }
+
+  .output{
+    color: rgb(213, 7, 7);
+    font-size: 35px ;
+     font-family: 'britannic bold';
+    text-align: center;
+
+  }
+       
