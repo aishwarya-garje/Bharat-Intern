@@ -1,6 +1,7 @@
 # Netflix Clone
 
-![Netflix Clone Screenshots](SS1.png)
+![Netflix Clone Homepage Screenshot](PICTURES/SS1.png)
+
 
 
 This repository is a Netflix clone project created using HTML and CSS.
