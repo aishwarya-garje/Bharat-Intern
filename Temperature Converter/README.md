@@ -39,6 +39,6 @@ To run the Temperature Converter on your local machine, follow these steps:
 
 ## Author
 
-[Aishwarya_garje]
+[Aishwarya garje]
 
 
